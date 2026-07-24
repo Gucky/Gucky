@@ -31,6 +31,7 @@ Previously working with teams and products at Deutsche Telekom, Audi, Volkswagen
 | AI-Skill | [AgentFileArchitecture](https://github.com/Gucky/AgentFileArchitecture) | Keeps `AGENTS.md` compact by routing project guidance into focused extensions. |
 | AI-Skill | [AgentTaskWorkspace](https://github.com/Gucky/AgentTaskWorkspace) | Preserves task context, decisions, evidence and outcomes for future agent work. |
 | AI-Skill | [RecursiveIndex](https://github.com/Gucky/RecursiveIndex) | Creates focused `index.md` navigation for project folders. |
+| AI-Skill | [JiraIssueTexts](https://github.com/Gucky/JiraIssueTexts) | Drafts clear Jira issue titles and descriptions without inventing missing facts. |
 | AI-Skill | [ApKI](https://github.com/Gucky/ApKI) | Routes agents to current, official Apple developer resources. |
 | AI-Skill | [NeKI](https://github.com/Gucky/NeKI) | Curates Apple-platform newsletters, blogs and articles for community perspectives. |
 | AI-Skill | [TypedErrorThrowingFixes](https://github.com/Gucky/TypedErrorThrowingFixes) | Helps diagnose and fix Swift 6 typed-throws and concurrency edge cases. |
